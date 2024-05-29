@@ -10,7 +10,7 @@
     </classes>
   </test>
   <test thread-count="5" name="Test1">
-  <parameter name="name" value="Subhadip"/>
+  <parameter name="name" value="Subhadip Sasmal"/>
   <parameter name="job" value="Software Engineer"/>
   <!-- Test level parameters are like local variables which work only on that particular test -->
   <!-- If both suite and test has parameters then suite level variables are overridden by test level variables -->
